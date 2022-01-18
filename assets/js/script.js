@@ -1,0 +1,1 @@
+var nasaPictures = JSON.parse(localStorage.getItem("nasaPicture"))
